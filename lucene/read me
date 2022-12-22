@@ -1,5 +1,0 @@
-IndexFiles.java：
-Index the documents in a dirctory, give back a dictionary.
-
-SearchFiles.java:
-Search the key words using the dictionary
