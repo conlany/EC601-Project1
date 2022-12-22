@@ -1,30 +1,29 @@
-Project-2
-Phase 1: Twitter APIs In this part, I wrote several test programs to exercise different twitter APIs.
+User Stories of Social Media Analyzer
 
-Getting Start
-Setting up Twitter API authentication
+Different Users :
+Company administrators (MVP)
+Administrators can use the analysis platform of social media to understand the customer's evaluation and preference of the product, 
+and better make the right decision for the company's development direction. They can check the public opinion about the company in real time,
+and respond and clarify in time when there is negative news.
 
-Installing the client library: setting up a python development environment first; then install the library.
+Advertisers 
+Advertisers can use this platform to view the focus of attention of different groups today and formulate different advertising strategies for publicity.
 
-Setting up authentication: Create new account and select a project. Create a service account key and a JSON key file will be downloaded to your computer. Provide authentication credentials to your application code
+Researchers (MVP)
+Researchers can use social media analyzer to get the data they want and analyze for learning.
 
-Run the program:
+Celebrities
+Celebrities can use social media analysis platforms to obtain public opinion and evaluations about themselves, and develop 
+strategies for this to shape their ideal public image.
 
-python Home_timeline_twitters.py
+Content creators
+Content creators can use the platform to obtain the most cutting-edge consultation and real-time hot topics, and increase topic interest and fashionable 
+inspiration for their creation.
 
-python Google_NPL.py Home_timeline_tweets_results.txt
+Content consumers
+Customers can use the analysis platform to do some small research or program design based on their own interests.
 
-Set the results:
-
-This tweet is used to test Twitter API.
-
-Sentence 0 has a sentiment score of -0.10000000149011612
-
-Sentence 1 has a sentiment score of 0.20000000298023224
-
-Reference
-Tweepy: https://docs.tweepy.org/en/stable/getting_started.html
-
-Google NLP: https://cloud.google.com/natural-language/docs/reference/libraries#cloud-console
-
-Unittest: https://docs.python.org/3/library/unittest.html
+Mission :
+Because social platforms are the most widely used tools in people’s daily lives, especially software like twitter, people will post their opinions 
+and learn about all kinds of information on them. Therefore, analyzing the data of these open public social platforms will bring different benefits to different users. 
+The analysis platform is designed to help users obtain the social media data they want, and present the data in a convenient form for easy analysis.
