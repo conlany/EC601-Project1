@@ -1,3 +1,0 @@
-multiple_item_recommend:
-Uses deep Q-learning, the item space can have relatively good results including no more than 100 items. If item space is larger, please use the program 
-in the recommend_listwise
